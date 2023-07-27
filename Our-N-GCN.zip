@@ -1,0 +1,5 @@
+This zip file contains all the required files
+for training our model:
+1. mixhop_model.py
+2. mixhop_dataset.py
+3. ngcn_trainer.py
