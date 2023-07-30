@@ -16,3 +16,5 @@ https://github.com/samihaija/mixhop
 3. ngcn_trainer: same as the original file of the paper's authors.
 
 # How to use
+1. First make sure that the path of the dataset file is correct.
+2. Run ngcn_trainer
