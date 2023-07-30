@@ -12,7 +12,7 @@ https://github.com/samihaija/mixhop
 
 # File Overview
 1. mixhop_model.py: Contains the original mixhop layer and model architecture. Our improvement was implemented in this file.
-2. mixhop_dataset.py: This reads the planetoid datasets (from which we used Cora dataset)
+2. mixhop_dataset.py: This reads the [planetoid](https://github.com/kimiyoung/planetoid) datasets (from which we used Cora dataset)
 3. ngcn_trainer: same as the original file of the paper's authors.
 
 # How to use
